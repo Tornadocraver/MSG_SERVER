@@ -3,7 +3,7 @@ Messaging application - UX and Source Code
 
 -----
 
-This program is a complete messageing application built around my MsgServer.cs file and communicates with connected client applications (https://github.com/Tornadocraver/MSG_CLIENT/). Please note that this project is still in the testing phase and may have some issues (although you are welcome to test it). Any questens or suggestions, send me an email as: micahmail9@gmail.com
+This program is a complete messageing application built around my MsgServer.cs file and communicates with connected client applications (https://github.com/Tornadocraver/MSG_CLIENT/). Please note that this project is still in the testing phase and may have some issues (although you are welcome to test it). Also note: YOU NEED TO PORT-FORWARD IF YOU PLAN ON COMMUNICATING OVER THE INTERNET! Any questens or suggestions, send me an email as: micahmail9@gmail.com
 
 Future Plans:
 		- Bug fixes
