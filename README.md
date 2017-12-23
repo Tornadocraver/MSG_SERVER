@@ -1,4 +1,6 @@
-# MSG_SERVER
+# MSG_SERVER (Archived)
+**PLEASE NOTE** This project has moved to: https://github.com/Tornadocraver/ConnectLib
+
 Messaging application - UX and Source Code
 
 -----
